@@ -1,2 +1,0 @@
-# kizuna
-kizuna.ai
